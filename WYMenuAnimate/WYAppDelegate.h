@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  WYAppDelegate.h
 //  WYMenuAnimate
 //
 //  Created by Kevin on 15/7/12.
@@ -8,10 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface WYAppDelegate : UIResponder<UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 
-
 @end
-
